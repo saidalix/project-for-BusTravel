@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:orientation="vertical" >
+        
+       <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.13"
+        android:src="@drawable/fees" 
+        android:paddingTop="5dp"
+        />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="19dp"
+            android:paddingTop="3dp"
+            android:text="KAMPALA TO NAIROBI"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#1c0ea2"
+            android:textSize="27sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="40 USD"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="40 EURO"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="136000 UGX"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="19dp"
+        android:paddingTop="10dp"
+        android:text="KAMPALA TO DARSALAM"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#1c0ea2"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="50 USD"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="50 EURO"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="180000 UGX"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="19dp"
+        android:paddingTop="10dp"
+        android:text="KAMPALA TO KIGALI"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#1c0ea2"
+        android:textSize="27sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="15 USD"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="15 EURO"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="50000"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="19dp"
+        android:paddingTop="10dp"
+        android:text="KAMPALA TO MOMBASSA"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#1c0ea2"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="65 USD"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="60 EURO"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="90dp"
+        android:text="210000 UGX"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20sp" />
+    
+
+    </LinearLayout>
+    
+</ScrollView>

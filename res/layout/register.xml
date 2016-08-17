@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8f0808"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="100dp"
+        android:text="Bus Travel"
+        android:textColor="#0e2aa2"
+        android:textSize="20sp" />
+
+     <EditText
+         android:id="@+id/name_edt"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:hint="Your name"
+         android:paddingBottom="10dp" />
+
+    <EditText 
+        android:id="@+id/username_edit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:paddingBottom="10dp"        
+        />
+    <EditText 
+        android:id="@+id/password_edit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:paddingBottom="10dp"
+        android:inputType="textPassword"        
+        />
+    
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text=" " />
+<Button
+    android:id="@+id/submit_button"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Register"
+    />
+</LinearLayout>

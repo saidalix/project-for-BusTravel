@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:orientation="vertical" >
+        
+        <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.13"
+        android:src="@drawable/contact" 
+        android:paddingTop="5dp"
+        />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="45dp"
+            android:text="UGANDA OFFICE"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#1c0ea2"
+            android:textSize="30sp" 
+            android:paddingTop="10dp"/>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Email:bustravel@ug.com"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Contact: +256759940083"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="P.O.BOX 5487"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Namahimba Parking Kampala"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="45dp"
+            android:paddingTop="10dp"
+            android:text="RWANDA OFFICE"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#1c0ea2"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Email:bustravelrwanda@gmail.com"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Contact: +256759940083"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="P.O.BOX 4787"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Kigali Bus Parking"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="45dp"
+            android:paddingTop="10dp"
+            android:text="TANZANIA OFFICE"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#1c0ea2"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Email:tzbustravel@ug.com"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Contact: +256759940083"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="P.O.BOX 0587"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Darsalam bus Parking "
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="45dp"
+            android:paddingTop="10dp"
+            android:text="KENYA OFFICE"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#1c0ea2"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Email:bustravel_kenya@ug.com"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Contact: +256759940083"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="P.O.BOX 50107"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Bus Parking Nairobi"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="35dp"
+            android:paddingTop="10dp"
+            android:text="MOMBASSA OFFICE"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#1c0ea2"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Email:mm_bustravel@gmail.com"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Contact: +256759940083"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="P.O.BOX 487"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="70dp"
+            android:text="Mombassa Bus Parking"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+             />
+        
+    </LinearLayout>
+    
+
+</ScrollView>
